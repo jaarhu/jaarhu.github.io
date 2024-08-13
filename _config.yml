@@ -36,8 +36,9 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-0040-338X"
   semantic         : # URL
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=7102205615" # pubmed
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/J-A-Acosta" # URL
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=7102205615"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
