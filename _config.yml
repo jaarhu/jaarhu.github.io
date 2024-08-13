@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
-theme: "Time machine"
+theme: "Modernist"
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "José Ángel Acosta / Website"
