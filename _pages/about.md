@@ -11,6 +11,6 @@ He obtained the Servo-Electrical, Mechanical and Electrical Engineering 3-degree
 
 ## News
 
-- 2024.08: **[NonDyn]** Accepted paper in [Nonlinear Dynamics](https://link.springer.com/journal/11071) journal. Title: "<i>Data-driven learning and control of nonlinear system dynamics. A robust-learning approach via Sontag's control formula.</i>". Preprint at [<i class="ai ai-arxiv ai-fw icon-pad-right"></i>[arXiv](https://arxiv.org/abs/2307.15662v2)].
+- 2024.08: **[NonDyn]** Accepted paper in [Nonlinear Dynamics](https://link.springer.com/journal/11071) journal. Title: "<i>Data-driven learning and control of nonlinear system dynamics. A robust-learning approach via Sontag's control formula.</i>". Preprint at [<a target="_self"><i class="ai ai-arxiv ai-fw icon-pad-right"></i></a>[arXiv](https://arxiv.org/abs/2307.15662v2)].
 <!-- - 2024.0: **[Preprint]** [[Arxiv](https://arxiv.org/abs/2212.08057)] -->
 <!-- Comment -->
