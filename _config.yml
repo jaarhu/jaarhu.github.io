@@ -287,8 +287,8 @@ defaults:
       layout: projects
       author_profile: true
       share: true
-    # _thesis
-    - scope:
+  # _thesis
+  - scope:
       path: ""
       type: thesis
     values:
