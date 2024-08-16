@@ -11,8 +11,8 @@ He obtained the Servo-Electrical, Mechanical and Electrical Engineering 3-degree
 
 ## News
 
-- 08/2024: *Accepted* paper in **[NonDyn](https://link.springer.com/journal/11071)** journal. Title: *"Data-driven learning and control of nonlinear system dynamics. A robust-learning approach via Sontag's control formula."*. Preprint at [<i class="ai ai-arxiv ai-fw icon-pad-right"></i>arXiv](https://arxiv.org/abs/2307.15662v2).
-- 07/2024: New *breaktrough* paper in **[EJCON](https://doi.org/10.1016/j.ejcon.2024.101092)** journal. Title: *"Lyapunov-based estimation and control of velocity and load in rotating machines via Luenberger globally-convergent observer"*.
-- 05/2024: New *unsolved problem* paper in **[IMAMCI](https://doi.org/10.1093/imamci/dnae021)** journal. Title: *"Adaptive output-feedback trajectory tracking for a class of uncertain second-order linear systems"*.
+- 08/2024: *Accepted* paper in **[<i class="ai ai-springer ai-fw icon-pad-right"></i>NonDyn](https://link.springer.com/journal/11071)** journal. Title: *"Data-driven learning and control of nonlinear system dynamics. A robust-learning approach via Sontag's control formula."*. Preprint at [<i class="ai ai-arxiv ai-fw icon-pad-right"></i>arXiv](https://arxiv.org/abs/2307.15662v2).
+- 07/2024: New *breaktrough* paper in **[<i class="ai ai-elsevier ai-fw icon-pad-right"></i>EJCON](https://www.sciencedirect.com/journal/european-journal-of-control)** journal. Title: *["Lyapunov-based estimation and control of velocity and load in rotating machines via Luenberger globally-convergent observer"](https://doi.org/10.1016/j.ejcon.2024.101092)*.
+- 05/2024: New *unsolved problem* paper in **[<i class="ai ai-oxford ai-fw icon-pad-right"></i>IMAMCI](https://academic.oup.com/imamci)** journal. Title: *["Adaptive output-feedback trajectory tracking for a class of uncertain second-order linear systems"](https://doi.org/10.1093/imamci/dnae021)*.
 <!-- - 2024.0: **[Preprint]** [[Arxiv](https://arxiv.org/abs/2212.08057)] -->
 <!-- Comment -->
