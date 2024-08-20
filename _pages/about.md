@@ -19,16 +19,24 @@ He obtained the Servo-Electrical, Mechanical and Electrical Engineering 3-degree
 
 ## Thesis
 
+<!-- 
 - 26/03/2021: [**Nonlinear Control Strategies for Outdoor Aerial Manipulators**](https://prisma.us.es/publicacion/183826). Universidad de Sevilla, Spain.
 - 15/03/2024: [**Contributions to the interconnection of Systems through the Network and Robust Control**](https://prisma.us.es/publicacion/243652). Universidad de Sevilla, Spain.
 - 29/04/2024: [**Decentralised Control for Trajectory Tracking Control in an Aerial Manipulator**](https://prisma.us.es/publicacion/246718). Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico.
+-->
 
-## Past
+### Past
 
-| Title            | Date   | University / Research Centre                                 |
-| --------         | ------ | ------------------------------------------------------------ |
-| [**Nonlinear Control Strategies for Outdoor Aerial Manipulators**](https://prisma.us.es/publicacion/183826)    | 26/03/2021   | Universidad de Sevilla, Spain |
-| [**Contributions to the interconnection of Systems through the Network and Robust Control**](https://prisma.us.es/publicacion/243652)   | 15/03/2024  | Universidad de Sevilla, Spain |
-| [**Decentralised Control for Trajectory Tracking Control in an Aerial Manipulator**](https://prisma.us.es/publicacion/246718)    | 29/04/2024  | Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico  |
+|#| Title            | Date   | University / Research Center                                 |
+|-| --------         | ------ | ------------------------------------------------------------ |
+|1| [**Nonlinear Control Strategies for Outdoor Aerial Manipulators**](https://prisma.us.es/publicacion/183826)   | 26/03/2021   | Universidad de Sevilla, Spain |
+|2| [**Contributions to the interconnection of Systems through the Network and Robust Control**](https://prisma.us.es/publicacion/243652)   | 15/03/2024  | Universidad de Sevilla, Spain |
+|3| [**Decentralised Control for Trajectory Tracking Control in an Aerial Manipulator**](https://prisma.us.es/publicacion/246718)    | 29/04/2024  | Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico  |
 
-## Current
+### Current
+
+|#| Title            | PhD   | University / Research Center                                 |
+|-| --------         | ------ | ------------------------------------------------------------ |
+|4| **Analysis and modeling of the aerodynamics of flapping wings at low Reynolds number and large angles of attack. Application in improving ornithopter flight efficiency and control** | C.R. Páez   | Universidad de Sevilla, Spain |
+|5| **Data-driven learning control with guaranteed stability: applications in Robotic** | Y.A. Becerra-Mora  | Universidad de Sevilla, Spain |
+|6| [**Koopman Data-Driven Techniques for the Analysis and Control of Nonlinear Systems**](https://prisma.us.es/publicacion/246718)    | F.J. Maldonado  | Universidad de Sevilla, Spain |
