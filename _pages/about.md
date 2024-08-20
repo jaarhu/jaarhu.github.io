@@ -35,8 +35,8 @@ He obtained the Servo-Electrical, Mechanical and Electrical Engineering 3-degree
 
 ### Current
 
-|#| Title            | PhD   | University / Research Center                                 |
+|#| Title            | PhD student   | University / Research Center                                 |
 |-| --------         | ------ | ------------------------------------------------------------ |
-|4| **Analysis and modeling of the aerodynamics of flapping wings at low Reynolds number and large angles of attack. Application in improving ornithopter flight efficiency and control** | C.R. Páez   | Universidad de Sevilla, Spain |
-|5| **Data-driven learning control with guaranteed stability: applications in Robotic** | Y.A. Becerra-Mora  | Universidad de Sevilla, Spain |
-|6| [**Koopman Data-Driven Techniques for the Analysis and Control of Nonlinear Systems**](https://prisma.us.es/publicacion/246718)    | F.J. Maldonado  | Universidad de Sevilla, Spain |
+|4| **Modeling and Control of ornithopters. Application to improving flight efficiency** | C.R. Páez   | Universidad de Sevilla, Spain |
+|5| **Data-driven learning control with guaranteed stability: applications in Robotics** | Y.A. Becerra-Mora  | Universidad de Sevilla, Spain |
+|6| **Koopman Data-Driven Techniques for the Analysis and Control of Nonlinear Systems** | F.J. Maldonado  | Universidad de Sevilla, Spain |
