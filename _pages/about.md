@@ -16,3 +16,19 @@ He obtained the Servo-Electrical, Mechanical and Electrical Engineering 3-degree
 - 05/2024: ***Unsolved problem*** paper in **[IMAMCI](https://academic.oup.com/imamci)** journal. Title: *["Adaptive output-feedback trajectory tracking for a class of uncertain second-order linear systems"](https://doi.org/10.1093/imamci/dnae021)*.
 <!-- - 2024.0: **[Preprint]** [[Arxiv](https://arxiv.org/abs/2212.08057)] -->
 <!-- Comment -->
+
+## Thesis
+
+- 26/03/2021: [**Nonlinear Control Strategies for Outdoor Aerial Manipulators**](https://prisma.us.es/publicacion/183826). Universidad de Sevilla, Spain.
+- 15/03/2024: [**Contributions to the interconnection of Systems through the Network and Robust Control**](https://prisma.us.es/publicacion/243652). Universidad de Sevilla, Spain.
+- 29/04/2024: [**Decentralised Control for Trajectory Tracking Control in an Aerial Manipulator**](https://prisma.us.es/publicacion/246718). Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico.
+
+## Past
+
+| Title            | Date   | University / Research Centre                                 |
+| --------         | ------ | ------------------------------------------------------------ |
+| [**Nonlinear Control Strategies for Outdoor Aerial Manipulators**](https://prisma.us.es/publicacion/183826)    | 26/03/2021   | Universidad de Sevilla, Spain |
+| [**Contributions to the interconnection of Systems through the Network and Robust Control**](https://prisma.us.es/publicacion/243652)   | 15/03/2024  | Universidad de Sevilla, Spain |
+| [**Decentralised Control for Trajectory Tracking Control in an Aerial Manipulator**](https://prisma.us.es/publicacion/246718)    | 29/04/2024  | Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico  |
+
+## Current
