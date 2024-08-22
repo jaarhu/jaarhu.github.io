@@ -8,8 +8,15 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<!--
 [SISIUS](https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338 "@embed")
+-->
+
+<Embed
+  html={false}
+  url="https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338"
+  title="SISIUS"
+/>
 
 <!--
 <div>
