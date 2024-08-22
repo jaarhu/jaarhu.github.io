@@ -9,11 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<div class=”container>
-<iframe src="https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338"></iframe>
-</div>
-
-<!-- Added to _sass/_page.scss
+<head>
+<style>
 .container {
    position: relative;
    overflow: hidden;
@@ -28,7 +25,14 @@ redirect_from:
    height: 100%;
    border: 0;
 }
--->
+</style>
+</head>
+
+<body>
+<div class=”container>
+<iframe src="https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338"></iframe>
+</div>
+</body>
 
 <!--
 <iframe src="https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338" style="overflow:hidden; height:100%; width:100%; position: absolute; top: 0; left: 0; bottom: 0; right: 0;" height="100%" width="90%"></iframe>
