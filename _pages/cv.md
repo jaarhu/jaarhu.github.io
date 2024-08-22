@@ -9,28 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-## HEAD
-<style>
-.container {
-   position: relative;
-   overflow: hidden;
-   padding-top: 80%;
-}
+<div>
+  <style>
+  .container {
+     position: relative;
+     overflow: hidden;
+     padding-top: 80%;
+  }
 
-.container iframe {
-   position: absolute;
-   top: 0;
-   left: 0;
-   width: 100%;
-   height: 100%;
-   border: 0;
-}
-</style>
-
-## BODY
-
-<div class=”container">
-<iframe src="https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338"></iframe>
+  .container iframe {
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100%;
+     border: 0;
+  }
+  </style>
+    <div class=”container">
+      <iframe src="https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338"></iframe>
+    </div>
 </div>
 
 <!--
