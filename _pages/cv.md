@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-
+<body>
+  
 <!--
 <embed type="text/html" src="https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338" width="500" height="200">
 
@@ -21,6 +22,8 @@ redirect_from:
 <!--
 <iframe src="https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338" style="overflow:hidden; height:100%; width:100%; position: absolute;" height="100%" width="100%"></iframe>
 -->
+
+</body>
 
 <!--
 Education
