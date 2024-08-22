@@ -14,11 +14,13 @@ redirect_from:
 <embed type="text/html" src="https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338" width="500" height="200">
 
 <iframe src="https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338" width="100%" title="CV"></iframe>
-
-<iframe src="https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338" style="overflow:hidden; height:100%; width:100%; position: absolute; top: 0; left: 0; bottom: 0; right: 0;" height="100%" width="100%"></iframe>
 -->
 
+<iframe src="https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338" style="overflow:hidden; height:100%; width:100%; position: absolute; top: 0; left: 0; bottom: 0; right: 0;" height="100%" width="90%"></iframe>
+
+<!--
 <iframe src="https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338" style="overflow:hidden; height:100%; width:100%; position: absolute;" height="100%" width="100%"></iframe>
+-->
 
 <!--
 Education
