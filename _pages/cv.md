@@ -9,6 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+
+<!--
+<embed type="text/html" src="https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338" width="500" height="200">
+
+<iframe src="https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338" width="100%" title="CV"></iframe>
+-->
+<iframe src="https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338" frameborder="0" scrolling="no" style="overflow:hidden; height:100%; width:100%; position: absolute; top: 0; left: 0; bottom: 0; right: 0;" height="100%" width="100%"></iframe>
+
+<!--
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
