@@ -40,3 +40,4 @@ He obtained the Servo-Electrical, Mechanical and Electrical Engineering 3-degree
 |4| **Modeling and Control of ornithopters. Application to improving flight efficiency** | C.R. Páez   | Universidad de Sevilla, Spain |
 |5| **Data-driven learning control with guaranteed stability: applications in Robotics** | Y.A. Becerra-Mora  | Universidad de Sevilla, Spain |
 |6| **Koopman Data-Driven Techniques for the Analysis and Control of Nonlinear Systems** | F.J. Maldonado  | Universidad de Sevilla, Spain |
+|7| **Output-feedback Adaptive Control Structures** | D.P. Barragán-Vázquez  | Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico |
