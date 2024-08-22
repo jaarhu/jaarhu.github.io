@@ -18,7 +18,7 @@ redirect_from:
 <iframe src="https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338" style="overflow:hidden; height:100%; width:100%; position: absolute; top: 0; left: 0; bottom: 0; right: 0;" height="100%" width="100%"></iframe>
 -->
 
-<iframe src="https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338" height="100%" width="100%"></iframe>
+<iframe src="https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338" style="overflow:hidden; height:100%; width:100%;" height="100%" width="100%"></iframe>
 
 <!--
 Education
