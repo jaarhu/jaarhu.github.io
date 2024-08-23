@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Alternatively, you can visit the institutional interface of the Library of the University of Seville **[PRISMA](https://prisma.us.es/investigador/26)**.
+Alternatively, you can visit the institutional interface of the library of the Universidad de Sevilla **[PRISMA](https://prisma.us.es/investigador/26)**.
 
 
 <!--
