@@ -25,19 +25,13 @@ He obtained the Servo-Electrical, Mechanical and Electrical Engineering 3-degree
 - 29/04/2024: [**Decentralised Control for Trajectory Tracking Control in an Aerial Manipulator**](https://prisma.us.es/publicacion/246718). Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico.
 -->
 
-### Past
-
-|#| Title            | Date   | University / Research Center |
+|#| Title  | Date   | University / Research Center |
 |-| :--------        | :------:| :------------------------------------------------------------ |
 |1| [**Nonlinear Control Strategies for Outdoor Aerial Manipulators**](https://prisma.us.es/publicacion/183826)   | 26/03/2021   | Universidad de Sevilla, Spain |
 |2| [**Contributions to the interconnection of Systems through the Network and Robust Control**](https://prisma.us.es/publicacion/243652)   | 15/03/2024  | Universidad de Sevilla, Spain |
 |3| [**Decentralised Control for Trajectory Tracking Control in an Aerial Manipulator**](https://prisma.us.es/publicacion/246718)    | 29/04/2024  | Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico  |
-
-### Current
-
-|#| Title            | PhD student   | University / Research Center                                 |
-|-| :--------         | :------: | :------------------------------------------------------------ |
-|4| **Modeling and Control of ornithopters. Application to improving flight efficiency** | C.R. Páez   | Universidad de Sevilla, Spain |
-|5| **Data-driven learning control with guaranteed stability: applications in Robotics** | Y.A. Becerra-Mora  | Universidad de Sevilla, Spain |
-|6| **Koopman Data-Driven Techniques for the Analysis and Control of Nonlinear Systems** | F.J. Maldonado  | Universidad de Sevilla, Spain |
-|7| **Output-feedback Adaptive Control Structures** | D.P. Barragán-Vázquez  | Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico |
+|#| **PhD student**| **Current** | |
+|4|  [C. Ruiz](https://scholar.google.es/citations?hl=es&user=Aqzx70QAAAAJ) | Mid 2025 *(planned)* | Universidad de Sevilla, Spain |
+|5| [Y.A. Becerra-Mora](https://www.researchgate.net/profile/Yeyson-Becerra-Mora) | Mid 2025 *(planned)*| Universidad de Sevilla, Spain |
+|6| F.J. Maldonado | Early 2024 *(started)* | Universidad de Sevilla, Spain |
+|7| D.P. Barragán-Vázquez | Mid 2024 *(started)* | Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico |
