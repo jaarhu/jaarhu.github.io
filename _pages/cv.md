@@ -12,11 +12,19 @@ redirect_from:
 [SISIUS](https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338 "@embed")
 -->
 
-<Embed
-  html={false}
-  url="https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338"
-  title="SISIUS"
-/>
+<div style="position: relative; overflow: hidden; padding-top: 100%;">
+  <iframe src="https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;">
+  </iframe>
+</div>
+
+<!--
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
+-->
 
 <!--
 <div>
