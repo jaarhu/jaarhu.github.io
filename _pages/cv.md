@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Official source: Research Headquarters - Univeridad de Sevilla ***[SISIUS](https://www-investigacion-us-es.translate.goog/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=es-419&_x_tr_pto=wapp)***"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,49 +12,18 @@ redirect_from:
 [SISIUS](https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338 "@embed")
 -->
 
-<!--
 <div style="position: relative; overflow: hidden; padding-top: 100%;">
   <iframe src="https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;">
   </iframe>
 </div>
--->
 
+<!-- Also working: note the padding-bottom instead
 <div style="padding-bottom:100%; position:relative; display:block; width: 100%">
   <iframe width="100%" height="100%"
     src="https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338"
     frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
   </iframe>
 </div>
-
-
-<!--
-<div>
-  <style>
-  .container {
-     position: relative;
-     overflow: hidden;
-     padding-top: 80%;
-  }
-
-  .container iframe {
-     position: absolute;
-     top: 0;
-     left: 0;
-     width: 100%;
-     height: 100%;
-     border: 0;
-  }
-  </style>
-    <div class=”container">
-      <iframe src="https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338"></iframe>
-    </div>
-</div>
--->
-
-<!--
-<iframe src="https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338" style="overflow:hidden; height:100%; width:100%; position: absolute; top: 0; left: 0; bottom: 0; right: 0;" height="100%" width="90%"></iframe>
-
-<iframe src="https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338" style="overflow:hidden; height:100%; width:100%; position: absolute;" height="100%" width="100%"></iframe>
 -->
 
 <!--
