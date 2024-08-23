@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Official source: Research Headquarters - Univeridad de Sevilla ***[SISIUS](https://www-investigacion-us-es.translate.goog/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=es-419&_x_tr_pto=wapp)***"
+title: "Official source: Research Headquarters - Universidad de Sevilla"
 permalink: /cv/
 author_profile: true
 redirect_from:
