@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Recuerde"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Departmento de Ingeniería de Sistemas y Automática"
+date: 2024-28-08
+location: ""
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+La información complementaria a la de **[Enseñanza Virtual de la Universidad de Sevilla](https://ev.us.es)** 
 
 Heading 1
 ======
