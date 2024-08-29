@@ -5,6 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
+{% include base_path %}
+
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 <h1>Material docente <span><it>(in Spanish)</it></span> OOOOO </h1>
 
 <div style="position: relative; overflow: hidden; padding-top: 100%;">
@@ -12,12 +19,6 @@ author_profile: true
   </iframe>
 </div>
 
-{% include base_path %}
 
-<!--
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
 
 
