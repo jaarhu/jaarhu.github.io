@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Departmento de Ingeniería de Sistemas y Automática"
-date: 2024-28-08
+date: 2024-08-28
 location: ""
 ---
 
