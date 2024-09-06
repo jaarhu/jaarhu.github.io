@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Content
+## Content
 
 - **[Brief bio](#brief-bio)**
 - **[News](#news)**
