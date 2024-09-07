@@ -2,7 +2,6 @@
 permalink: /
 title: ""
 author_profile: true
-toc: true
 redirect_from: 
   - /about/
   - /about.html
@@ -13,6 +12,9 @@ redirect_from:
 - **[Brief bio](#brief-bio)**
 - **[News](#news)**
 - **[Thesis supervision](#thesis-supervision)**
+
+* TOC
+{:toc}
 
 ## Brief bio
 
