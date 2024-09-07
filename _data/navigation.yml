@@ -19,9 +19,9 @@ main:
  # - title: "Projects"
  #   url: /projects/
  # - title: "Thesis"
- #   url: /thesis/
-  - title: "Blog Posts"
-    url: /year-archive/
- 
+ #   url: /thesis/ 
   - title: "Teaching"
     url: /teaching/
+
+  - title: "Blog Posts"
+    url: /year-archive/
