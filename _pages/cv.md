@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Official source: Research Headquarters - Universidad de Sevilla"
+title: "Research"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+* TOC
+{:toc}
+
+## Official source: Research Headquarters - Universidad de Sevilla
 
 Alternatively, you can visit the institutional interface of the library of the Universidad de Sevilla **[PRISMA](https://prisma.us.es/investigador/26)**.
 
@@ -85,3 +90,20 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 -->
+
+## Main Research Lines
+
+***Under construction***
+
+- Nonlinear, Robust and Adaptive Control
+- Mathematical Control Theory
+- Constrained Optimisation and Control
+- Learning and Data-Driven Control
+- Intelligent systems
+- Observer/Estimator Design
+- Mechanical Systems
+- Flight Dynamics & Control
+- Robot Manipulators
+
+
+
