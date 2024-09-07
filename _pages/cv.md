@@ -11,7 +11,7 @@ redirect_from:
 
 ## Content
 
-- **[Research Headquarters (Official source)](#research-headquarters-(official-source))**
+- **[Research Headquarters \(Official source\)](#research-headquarters-\(official-source\))**
 - **[Main Research Lines](#main-research-lines)**
 
 <!--
