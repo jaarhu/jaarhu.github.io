@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Content
+## Contents
 
 - **[Brief bio](#brief-bio)**
 - **[News](#news)**
@@ -28,7 +28,7 @@ He obtained the Servo-Electrical, Mechanical and Electrical Engineering 3-degree
 <!-- - 2024.0: **[Preprint]** [[Arxiv](https://arxiv.org/abs/2212.08057)] -->
 <!-- Comment -->
 
-**[Content](#content)**
+**[Top](#content)**
 
 ## Thesis supervision
 
@@ -49,4 +49,4 @@ He obtained the Servo-Electrical, Mechanical and Electrical Engineering 3-degree
 |6| F.J. Maldonado | Early 2024 *(started)* | Universidad de Sevilla, Spain |
 |7| D.P. Barragán-Vázquez | Mid 2024 *(started)* | Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico |
 
-**[Content](#content)**
+**[Top](#content)**
