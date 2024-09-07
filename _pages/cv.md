@@ -11,7 +11,7 @@ redirect_from:
 
 ## Content
 
-- **[Research Headquarters \(Official source\)](#research-headquarters-\(official-source\))**
+- **[Official Research Headquarters](#official-research-headquarters)**
 - **[Main Research Lines](#main-research-lines)**
 
 <!--
@@ -19,7 +19,7 @@ redirect_from:
 {:toc}
 -->
 
-## Research Headquarters (Official source)
+## Official Research Headquarters
 
 Alternatively, you can visit the institutional interface of the library of the Universidad de Sevilla **[PRISMA](https://prisma.us.es/investigador/26)**.
 
