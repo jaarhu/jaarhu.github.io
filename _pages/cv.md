@@ -9,10 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+## Content
+
+- **[Research Headquarters (Official source)](#research-headquarters-(official-source))**
+- **[Main Research Lines](#main-research-lines)**
+
+<!--
 * TOC
 {:toc}
+-->
 
-## Official source: Research Headquarters - Universidad de Sevilla
+## Research Headquarters (Official source)
 
 Alternatively, you can visit the institutional interface of the library of the Universidad de Sevilla **[PRISMA](https://prisma.us.es/investigador/26)**.
 
@@ -25,6 +32,8 @@ Alternatively, you can visit the institutional interface of the library of the U
   <iframe src="https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;">
   </iframe>
 </div>
+
+**[Content](#content)** (top)
 
 <!-- Also working: note the padding-bottom instead
 <div style="padding-bottom:100%; position:relative; display:block; width: 100%">
@@ -105,5 +114,5 @@ Service and leadership
 - Flight Dynamics & Control
 - Robot Manipulators
 
-
+**[Content](#content)** (top)
 
