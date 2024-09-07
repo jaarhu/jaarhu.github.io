@@ -9,9 +9,11 @@ redirect_from:
 
 ## Content
 
+<!--
 - **[Brief bio](#brief-bio)**
 - **[News](#news)**
 - **[Thesis supervision](#thesis-supervision)**
+-->
 
 * TOC
 {:toc}
