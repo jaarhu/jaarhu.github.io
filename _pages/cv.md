@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Content
+## Page content
 
 - **[Official Research Headquarters](#official-research-headquarters)**
 - **[Main Research Lines](#main-research-lines)**
@@ -33,7 +33,7 @@ Alternatively, you can visit the institutional interface of the library of the U
   </iframe>
 </div>
 
-**[Content](#content)** (top)
+**[Page content](#page-content)** \(top\)
 
 <!-- Also working: note the padding-bottom instead
 <div style="padding-bottom:100%; position:relative; display:block; width: 100%">
@@ -114,5 +114,5 @@ Service and leadership
 - Flight Dynamics & Control
 - Robot Manipulators
 
-**[Content](#content)** (top)
+**[Page content](#page-content)** \(top\)
 
