@@ -10,6 +10,8 @@ tags:
 
 This post will show up by default. 
 
+![Please wait ...](/files/underconstruction.jpg "Under construction")
+
 <!--
 To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
 -->
