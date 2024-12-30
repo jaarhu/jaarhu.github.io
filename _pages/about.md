@@ -52,6 +52,6 @@ He obtained the Servo-Electrical, Mechanical and Electrical Engineering 3-degree
 |5| [Y.A. Becerra-Mora](https://www.researchgate.net/profile/Yeyson-Becerra-Mora) | Mid 2025 *(planned)*| Universidad de Sevilla, Spain |
 |6| F.J. Maldonado | Early 2024 *(started)* | Universidad de Sevilla, Spain |
 |7| D.P. Barragán-Vázquez | Mid 2024 *(started)* | Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico |
-|8| A. Garcia-Lora | Nov.-Dec. 2024 *(start)* | FPU - Universidad de Sevilla, Spain |
+|8| A. Garcia-Lora | Early 2025 *(start)* | FPU - Universidad de Sevilla, Spain |
 
 **[Page content](#page-content)** \(top\)
