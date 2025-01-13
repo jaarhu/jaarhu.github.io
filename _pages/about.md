@@ -10,7 +10,7 @@ redirect_from:
 ## Page content
 
 - **[Brief bio](#brief-bio)**
-- **[News](#news)**
+- **[Featured News](#news)**
 - **[Thesis supervision](#thesis-supervision)**
 
 <!-- This one is automatic but losing the top link
@@ -24,7 +24,7 @@ He obtained the Servo-Electrical, Mechanical and Electrical Engineering 3-degree
 
 **[Page content](#page-content)** \(top\)
 
-## News
+## Featured News
 
 - 08/2024: ***Data-driven & Nonlinear control*** paper in **[<i class="ai ai-springer ai-fw icon-pad-left"></i>NonDyn](https://link.springer.com/journal/11071)** journal. Title: *["Data-driven learning and control of nonlinear system dynamics. A robust-learning approach via Sontag's control formula."](https://doi.org/10.1007/s11071-024-10149-1)*.
 - 07/2024: ***Breaktrough*** paper in **[<i class="ai ai-elsevier ai-fw icon-pad-left"></i>EJCON](https://www.sciencedirect.com/journal/european-journal-of-control)** journal. Title: *["Lyapunov-based estimation and control of velocity and load in rotating machines via Luenberger globally-convergent observer"](https://doi.org/10.1016/j.ejcon.2024.101092)*.
