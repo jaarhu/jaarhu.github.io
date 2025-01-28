@@ -26,7 +26,8 @@ He obtained the Servo-Electrical, Mechanical and Electrical Engineering 3-degree
 
 ## Featured News
 
-- 20/2025: ***Data-driven & Nonlinear control*** preprint in **[<i class="ai ai-arxiv ai-fw icon-pad-left"></i>Arxiv](https://arxiv.org)**. Title: *["Learning port maneuvers from data for automatic guidance of Unmanned Surface Vehicles"](https://doi.org/10.48550/arXiv.2501.09889)*.
+- 02/2025: ***Breaktrough*** paper in **[<i class="ai ai-elsevier ai-fw icon-pad-left"></i>ISA Transactions](https://www.sciencedirect.com/journal/isa-transactions)** journal. Title: *["Unified force and motion adaptive-integral control of flexible robot manipulators"](https://doi.org/10.1016/j.isatra.2025.01.030)*.
+- 01/2025: ***Data-driven & Nonlinear control*** preprint in **[<i class="ai ai-arxiv ai-fw icon-pad-left"></i>Arxiv](https://arxiv.org)**. Title: *["Learning port maneuvers from data for automatic guidance of Unmanned Surface Vehicles"](https://doi.org/10.48550/arXiv.2501.09889)*.
 - 08/2024: ***Data-driven & Nonlinear control*** paper in **[<i class="ai ai-springer ai-fw icon-pad-left"></i>NonDyn](https://link.springer.com/journal/11071)** journal. Title: *["Data-driven learning and control of nonlinear system dynamics. A robust-learning approach via Sontag's control formula."](https://doi.org/10.1007/s11071-024-10149-1)*.
 - 07/2024: ***Breaktrough*** paper in **[<i class="ai ai-elsevier ai-fw icon-pad-left"></i>EJCON](https://www.sciencedirect.com/journal/european-journal-of-control)** journal. Title: *["Lyapunov-based estimation and control of velocity and load in rotating machines via Luenberger globally-convergent observer"](https://doi.org/10.1016/j.ejcon.2024.101092)*.
 - 05/2024: ***Unsolved problem*** paper in **[IMAMCI](https://academic.oup.com/imamci)** journal. Title: *["Adaptive output-feedback trajectory tracking for a class of uncertain second-order linear systems"](https://doi.org/10.1093/imamci/dnae021)*.
@@ -43,16 +44,16 @@ He obtained the Servo-Electrical, Mechanical and Electrical Engineering 3-degree
 - 29/04/2024: [**Decentralised Control for Trajectory Tracking Control in an Aerial Manipulator**](https://prisma.us.es/publicacion/246718). Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico.
 -->
 
-|#| Title  | Date   | University / Research Center |
+|#| Title *(ascending chronological order)*  | Date   | University / Research Center |
 |-| :--------        | :------:| :------------------------------------------------------------ |
 |1| [**Nonlinear Control Strategies for Outdoor Aerial Manipulators**](https://prisma.us.es/publicacion/183826)   | 26/03/2021   | Universidad de Sevilla, Spain |
 |2| [**Contributions to the interconnection of Systems through the Network and Robust Control**](https://prisma.us.es/publicacion/243652)   | 15/03/2024  | Universidad de Sevilla, Spain |
 |3| [**Decentralised Control for Trajectory Tracking Control in an Aerial Manipulator**](https://prisma.us.es/publicacion/246718)    | 29/04/2024  | Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico  |
-|#| **PhD student**| **Current** | |
-|4|  [C. Ruiz](https://scholar.google.es/citations?hl=es&user=Aqzx70QAAAAJ) | Mid 2025 *(end)* | Universidad de Sevilla, Spain |
-|5| [Y.A. Becerra-Mora](https://www.researchgate.net/profile/Yeyson-Becerra-Mora) | Late 2025 *(end)*| Universidad de Sevilla, Spain |
-|6| F.J. Maldonado | Early 2024 *(started)* | Universidad de Sevilla, Spain |
-|7| D.P. Barragán-Vázquez | Mid 2024 *(started)* | Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico |
-|8| A. Garcia-Lora | Early 2025 *(start)* | FPU - Universidad de Sevilla, Spain |
+|#| **Current PhD student** *(ascending chronological order)* | **State** | |
+|4| [C. Ruiz](https://prisma.us.es/investigador/8612) | Completion mid-2025 *(estimated)* | Universidad de Sevilla, Spain |
+|5| [Y.A. Becerra-Mora](https://prisma.us.es/investigador/9333) | Completion late-2025 *(estimated)* | Universidad de Sevilla, Spain |
+|6| F.J. Maldonado | *Started* early-2024 | Universidad de Sevilla, Spain |
+|7| D.P. Barragán-Vázquez | *Started* mid-2024 | Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico |
+|8| [A. Garcia-Lora](https://prisma.us.es/investigador/9349) | *Started* early-2025 | FPU - Universidad de Sevilla, Spain |
 
 **[Page content](#page-content)** \(top\)
