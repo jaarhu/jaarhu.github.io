@@ -10,7 +10,7 @@ redirect_from:
 ## Page content
 
 - **[Brief bio](#brief-bio)**
-- **[Featured News](#news)**
+- **[Featured News](#featured-news)**
 - **[Thesis supervision](#thesis-supervision)**
 
 <!-- This one is automatic but losing the top link
