@@ -40,6 +40,9 @@ author:
   researchgate     : "https://www.researchgate.net/profile/J-A-Acosta" # URL
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=7102205615"
   prisma           : "https://prisma.us.es/investigador/26"
+  csauthor         : "https://www.csauthors.net/distance/jose-angel-acosta/jan-c-willems"
+  csauthor         : "https://www.csauthors.net/distance/jose-angel-acosta/petar-v-kokotovic"
+  csauthor         : "https://www.csauthors.net/distance/jose-angel-acosta/jerrold-e-marsden"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
