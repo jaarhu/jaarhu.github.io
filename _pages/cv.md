@@ -28,18 +28,12 @@ Alternatively, you can visit the institutional interface of the library of the U
 [SISIUS](https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338 "@embed")
 -->
 
-<!-- Spanish
+
 <div style="position: relative; overflow: hidden; padding-top: 100%;">
   <iframe src="https://investigacion.us.es/sisius/sis_showpub.php?idpers=7338" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;">
   </iframe>
 </div>
--->
 
-<!-- English -->
-<div style="position: relative; overflow: hidden; padding-top: 100%;">
-  <iframe src="https://investigacion-us-es.translate.goog/sisius/sis_showpub.php?idpers=7338&_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=es&_x_tr_pto=wapp" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;">
-  </iframe>
-</div>
 
 **[Page content](#page-content)** \(top\)
 
