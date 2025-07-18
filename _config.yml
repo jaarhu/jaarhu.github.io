@@ -5,7 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
-remote_theme: pages-themes/modernist@v0.2.0
+# remote_theme: pages-themes/modernist@v0.2.0
+site_theme: default
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "JaaR's website" # "José Ángel Acosta / Website under construction"
