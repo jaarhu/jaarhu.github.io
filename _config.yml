@@ -9,7 +9,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "dark"
+site_theme               : "default"
 title                    : "JaaR's website" # "José Ángel Acosta / Website under construction"
 title_separator          : "-"
 name                     : &name "jaar"
