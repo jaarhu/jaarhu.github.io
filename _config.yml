@@ -5,10 +5,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
-remote_theme: pages-themes/modernist@v0.2.0
-site_theme: "dark"
+# remote_theme: pages-themes/modernist@v0.2.0
+
 # Basic Site Settings
 locale                   : "en-US"
+site_theme               : "dark"
 title                    : "JaaR's website" # "José Ángel Acosta / Website under construction"
 title_separator          : "-"
 name                     : &name "jaar"
