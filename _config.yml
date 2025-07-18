@@ -9,7 +9,7 @@ remote_theme: pages-themes/modernist@v0.2.0
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+# site_theme               : "default"
 title                    : "JaaR's website" # "José Ángel Acosta / Website under construction"
 title_separator          : "-"
 name                     : &name "jaar"
