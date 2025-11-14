@@ -121,11 +121,10 @@ Service and leadership
 
 ## Research Videos
 
-- Constrained Differential Geometry control for the Pendulum on a Cart **[Video](https://personal.us.es/jaar/Datos/PoC_const.mov)**
-- Energy-shaping global stabiliser for the VTOL aircraft **[Video](https://personal.us.es/jaar/Datos/vtol20FPS.avi)**
-- Global swing-up and stabilization of the Furuta pendulum **[Video](https://personal.us.es/jaar/Datos/swup_new.wmv)** Robustness test **[Video](https://personal.us.es/jaar/Datos/mov01914.mpg)**
-- Energy-shaping enforced oscilations for the Furuta pendulum **[Video](https://personal.us.es/jaar/Datos/oscilaciones.avi)**
-
-[![Video](Datos/videoicon.png)](https://personal.us.es/jaar/Datos/oscilaciones.avi)
+- Constrained Differential-Geometry Control for the Pendulum on a Cart **[Video](https://personal.us.es/jaar/Datos/PoC_const.mov)**
+- Energy-shaping Global Stabiliser for the VTOL aircraft **[Video](https://personal.us.es/jaar/Datos/vtol20FPS.avi)**
+- Hybrid Global Swing-up and Stabilisation for the Furuta pendulum **[Video](https://personal.us.es/jaar/Datos/swup_new.wmv)** Robustness test **[Video](https://personal.us.es/jaar/Datos/mov01914.mpg)**
+- Smooth Almost-Global stabilisation for the Furuta pendulum (***open problem***) **[Video](https://personal.us.es/jaar/Datos/global_OK.avi)**
+- Energy-shaping controlled oscilations for the Furuta pendulum **[Video](https://personal.us.es/jaar/Datos/oscilaciones.avi)**
 
 **[Page content](#page-content)** \(top\)
