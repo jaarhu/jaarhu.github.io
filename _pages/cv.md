@@ -126,9 +126,16 @@ Service and leadership
 - Global swing-up and stabilization of the Furuta pendulum **[Video](https://personal.us.es/jaar/Datos/swup_new.wmv)** Robustness test **[Video](https://personal.us.es/jaar/Datos/mov01914.mpg)**
 - Energy-shaping enforced oscilations for the Furuta pendulum **[Video](https://personal.us.es/jaar/Datos/oscilaciones.avi)**
 
-<iframe src="https://personal.us.es/jaar/Datos/oscilaciones.avi" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div style="position: relative; overflow: hidden; padding-top: 100%;">
+  <iframe src="https://personal.us.es/jaar/Datos/oscilaciones.avi" style="position: absolute; top: 0; left: 0; width: 50%; height: 50%; border: 0;">
+  </iframe>
+</div>
 
-<iframe width="560" height="315" src="https://personal.us.es/jaar/Datos/oscilaciones.avi" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+OTHer
 
+<div style="position: relative; overflow: hidden; padding-top: 100%;">
+  <iframe src="https://personal.us.es/jaar/Datos/oscilaciones.avi" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+  </iframe>
+</div>
 
 **[Page content](#page-content)** \(top\)
