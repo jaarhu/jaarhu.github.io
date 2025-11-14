@@ -131,11 +131,8 @@ Service and leadership
   </iframe>
 </div>
 
-OTHer
+other
 
-<div style="position: relative; overflow: hidden; padding-top: 100%;">
-  <iframe src="https://personal.us.es/jaar/Datos/oscilaciones.avi" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
-  </iframe>
-</div>
+[![VideoE](/Datos/videoicon.png)](https://personal.us.es/jaar/Datos/oscilaciones.avi)
 
 **[Page content](#page-content)** \(top\)
