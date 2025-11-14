@@ -13,6 +13,7 @@ redirect_from:
 
 - **[Official Research Headquarters](#official-research-headquarters)**
 - **[Main Research Lines](#main-research-lines)**
+- **[Research Videos](#research-videos)**
 
 <!--
 * TOC
@@ -118,3 +119,12 @@ Service and leadership
 
 **[Page content](#page-content)** \(top\)
 
+## Research Videos
+
+- Constrained Differential Geometry control for the Pendulum on a Cart **[PoC](https://personal.us.es/jaar/Datos/PoC_const.mov)**
+- Energy-shaping global stabiliser for the VTOL **[VTOL](https://personal.us.es/jaar/Datos/vtol20FPS.avi)**
+- Global swing-up and stabilization of the Furuta pendulum **[Furuta](https://personal.us.es/jaar/Datos/swup_new.wmv)**
+- Cont'd Robustness test **[Furuta](https://personal.us.es/jaar/Datos/mov01914.mpg)**
+- Energy-shaping enforced oscilations for the Furuta pendulum **[Furuta](https://personal.us.es/jaar/Datos/oscilaciones.avi)**
+
+**[Page content](#page-content)** \(top\)
