@@ -48,16 +48,16 @@ He obtained the Servo-Electrical, Mechanical and Electrical Engineering 3-degree
 - 29/04/2024: [**Decentralised Control for Trajectory Tracking Control in an Aerial Manipulator**](https://prisma.us.es/publicacion/246718). Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico.
 -->
 
-|#| Title *(ascending chronological order)*  | Date   | University / Research Center |
+|#| Title *(descending chronological order)*  | Date   | University / Research Center |
 |-| :--------        | :------:| :------------------------------------------------------------ |
-|1| [**Nonlinear Control Strategies for Outdoor Aerial Manipulators**](https://prisma.us.es/publicacion/183826)   | 26/03/2021   | Universidad de Sevilla, Spain |
+|4| [**Bioinspired Optimization and Advanced Control of Flapping-Wing Bird-Size Unmanned Aerial Vehicles**](https://prisma.us.es/investigador/8612)   | 21/05/2026   | Universidad de Sevilla, Spain |
+|3| [**Decentralised Control for Trajectory Tracking Control in an Aerial Manipulator**](https://prisma.us.es/publicacion/246718)  | 29/04/2024  | Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico  |
 |2| [**Contributions to the interconnection of Systems through the Network and Robust Control**](https://prisma.us.es/publicacion/243652)   | 15/03/2024  | Universidad de Sevilla, Spain |
-|3| [**Decentralised Control for Trajectory Tracking Control in an Aerial Manipulator**](https://prisma.us.es/publicacion/246718)    | 29/04/2024  | Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico  |
+|1| [**Nonlinear Control Strategies for Outdoor Aerial Manipulators**](https://prisma.us.es/publicacion/183826)   | 26/03/2021   | Universidad de Sevilla, Spain |
 |#| **PhD student** ***(ascending chronological order)*** | **Current State** | |
-|4| [C. Ruiz](https://prisma.us.es/investigador/8612) | Completion mid-2025 *(estimated)* | Universidad de Sevilla, Spain |
-|5| [Y.A. Becerra-Mora](https://prisma.us.es/investigador/9333) | Completion late-2025 *(estimated)* | Universidad de Sevilla, Spain |
-|6| F.J. Maldonado | *Started* early-2024 | Universidad de Sevilla, Spain |
-|7| D.P. Barragán-Vázquez | *Started* mid-2024 | Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico |
-|8| [A. Garcia-Lora](https://prisma.us.es/investigador/9349) | *Started* early-2025 | **FPU** - Universidad de Sevilla, Spain |
+|1| [Y.A. Becerra-Mora](https://prisma.us.es/investigador/9333) | Completion late-2026 *(estimated)* | Universidad de Sevilla, Spain |
+|2| F.J. Maldonado | *Started* early-2024 | Universidad de Sevilla, Spain |
+|3| D.P. Barragán-Vázquez | *Started* mid-2024 | Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico |
+|4| [A. Garcia-Lora](https://prisma.us.es/investigador/9349) | *Started* early-2025 | **FPU** - Universidad de Sevilla, Spain |
 
 **[Page content](#page-content)** \(top\)
