@@ -39,7 +39,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Setup Ruby
         # https://github.com/ruby/setup-ruby/releases/tag/v1.207.0
-        # uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4
+        ## uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1' # Not needed with a .ruby-version file
@@ -55,7 +55,9 @@ jobs:
           JEKYLL_ENV: production
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
-        uses: actions/upload-pages-artifact@v3
+        ## uses: actions/upload-pages-artifact@v3
+        # UPDATED: v5 natively uses Node 24
+        uses: actions/upload-pages-artifact@v5
 
   # Deployment job
   deploy:
@@ -67,4 +69,5 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
+        # UPDATED: v5 natively uses Node 24
         uses: actions/deploy-pages@v5
