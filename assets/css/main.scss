@@ -73,7 +73,8 @@ html, body, #main {
 /* Fix mobile follow button visibility in dark theme */
 @media (max-width: 64em) {
   .sidebar .author__urls-wrapper button {
-    background-color: #252a34 !important; /* Force a dark grey background */
+//    background-color: #252a34 !important; /* Force a dark grey background */
+    background-color: #051115 !important; 
     color: #ffffff !important;            /* Force white text */
     border: 1px solid #4f5b66 !important; /* Add a subtle border so it stands out */
   }
