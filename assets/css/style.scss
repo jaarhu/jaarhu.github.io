@@ -1,13 +1,17 @@
 ---
-# Two lines of triple dashes must be at the top so Jekyll compiles this!
+# Two lines of triple dashes must be at the very top so Jekyll compiles this!
 ---
 
-// Keep your existing theme imports up here...
+// 1. Define your custom colors FIRST (Sass needs these before importing the theme)
+$background-color: #00FFFF; // Change this to your preferred background hex color
+$body-bg: #00FFFF;          // This ensures the main body wrapper matches
+
+// 2. Fetch the theme rules SECOND
 @import "{{ site.theme }}";
 
-// Add this at the absolute bottom of the file:
-:root {
-  --global-bg-color: #00FFFF; /* Change this hex code to your preferred background color */
+// 3. (Optional) Force-override for any stubborn container elements
+#main {
+  background-color: $background-color;
 }
 
 // to use dark theme
