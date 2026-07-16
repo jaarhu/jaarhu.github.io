@@ -1,9 +1,14 @@
+
+// 1. Define custom background rule before bringing in the theme templates
+$body-bg: #00FFFF;
+
+// 2. Fetch the theme rules
 @import "{{ site.theme }}";
 
-body {
-  background-color: #00FFFF !important; 
+// 3. Fallback force command if variables get trapped by compilation order
+html, body {
+  background: $body-bg !important;
 }
-
 
 // @import "jekyll-theme-modernist";
 // @import "modernist";
