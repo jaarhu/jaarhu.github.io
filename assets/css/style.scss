@@ -1,14 +1,18 @@
 
-// 1. Define custom background rule before bringing in the theme templates
-// $body-bg: #00FFFF;
-
-// 2. Fetch the theme rules
+// Keep your existing theme imports up here...
 @import "{{ site.theme }}";
 
-// 3. Fallback force command if variables get trapped by compilation order
-html, body {
-  background: #00FFFF !important;
+// Add this at the absolute bottom of the file:
+:root {
+  --global-bg-color: #00FFFF; /* Change this hex code to your preferred background color */
 }
+
+// to use dark theme
+//@media (prefers-color-scheme: dark) {
+//  :root {
+//    --global-bg-color: #1e1e1e; /* Dark mode background */
+//  }
+//}
 
 // @import "jekyll-theme-modernist";
 // @import "modernist";
