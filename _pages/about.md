@@ -50,7 +50,7 @@ He obtained the Servo-Electrical, Mechanical and Electrical Engineering 3-degree
 
 |#| Title *(descending chronological order)*  | Date   | University / Research Center |
 |-| :--------        | :------:| :------------------------------------------------------------ |
-|4| [**Bioinspired Optimization and Advanced Control of Flapping-Wing Bird-Size Unmanned Aerial Vehicles**](https://prisma.us.es/investigador/8612)   | 21/05/2026   | Universidad de Sevilla, Spain |
+|4| [**Bioinspired Optimization and Advanced Control of Flapping-Wing Bird-Size Unmanned Aerial Vehicles**](https://prisma.us.es/publicacion/285735)   | 21/05/2026   | Universidad de Sevilla, Spain |
 |3| [**Decentralised Control for Trajectory Tracking Control in an Aerial Manipulator**](https://prisma.us.es/publicacion/246718)  | 29/04/2024  | Centro de Investigación y de Estudios Avanzados (CINVESTAV-IPN), Mexico  |
 |2| [**Contributions to the interconnection of Systems through the Network and Robust Control**](https://prisma.us.es/publicacion/243652)   | 15/03/2024  | Universidad de Sevilla, Spain |
 |1| [**Nonlinear Control Strategies for Outdoor Aerial Manipulators**](https://prisma.us.es/publicacion/183826)   | 26/03/2021   | Universidad de Sevilla, Spain |
