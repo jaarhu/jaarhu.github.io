@@ -20,8 +20,22 @@ initOutline()
 
 </head>
 
-<body onclick="dynOutline()">
+<style>
+  /* This targets every link (a tag) inside this specific HTML file */
+  a {
+    color: #000080 !important; /* Forces the links to be navy blue */
+    text-decoration: underline; /* Keeps the underline so users know it's clickable */
+  }
+
+  /* Changes the color slightly when someone hovers over the link */
+  a:hover {
+    color: #0000ff !important; /* Turns a lighter blue on hover */
+  }
+</style>
+
+<body style="color: #0000FF; font-size: 12px" onclick="dynOutline()">
 <!--
+<body onclick="dynOutline()">
 <body style="color: #0000FF; font size=12px" onclick="dynOutline()">
 <p align="left"><font size="4">Docencia: </font></p>
 -->
