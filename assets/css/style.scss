@@ -2,23 +2,25 @@
 # Two lines of triple dashes must be at the very top so Jekyll compiles this!
 ---
 
-// 1. Define your custom colors FIRST (Sass needs these before importing the theme)
-$background-color: #00FFFF; // Change this to your preferred background hex color
-$body-bg: #00FFFF;          // This ensures the main body wrapper matches
-
-// 2. Fetch the theme rules SECOND
+// 1. Fetch the core theme rules FIRST
 @import "{{ site.theme }}";
 
-// 3. (Optional) Force-override for any stubborn container elements
-#main {
-  background-color: $background-color;
+// 2. Override the CSS variables SECOND so they win the priority battle
+:root {
+  /* This changes the main background to your Cyan */
+  --global-bg-color: #00FFFF !important; 
 }
 
-// to use dark theme
+// 3. Set your dark mode background
 @media (prefers-color-scheme: dark) {
   :root {
-    --global-bg-color: #1e1e1e; /* Dark mode background */
+    --global-bg-color: #1e1e1e !important; 
   }
+}
+
+// 4. A hard-override just in case the layout wrapper is being stubborn
+html, body, #main {
+  background-color: var(--global-bg-color) !important;
 }
 
 // @import "jekyll-theme-modernist";
