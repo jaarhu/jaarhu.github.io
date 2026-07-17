@@ -261,76 +261,92 @@
 
 /* FIX THE MOBILE FOLLOW BUTTON HIDES */
 
-/* Complete mobile sidebar exposure and layout separation */
+/* Complete mobile layout fix for horizontal alignment and overlap prevention */
 @media screen and (max-width: 1023px) {
-  /* 1. Force the hidden container to show and layout elements horizontally */
-  .author__sidebar,
+  
+  /* 1. Push the entire sidebar down so it is not hidden under the top menu bar */
+  .sidebar {
+    display: block !important;
+    margin-top: 15px !important;      /* Pushes everything down past the header */
+    margin-bottom: 30px !important;    /* Creates a clean gap before the page content */
+    height: auto !important;
+    clear: both !important;
+    overflow: visible !important;
+  }
+
+  /* 2. Force Avatar, Name, and Button into a single horizontal row */
   .sidebar .author__sidebar {
     display: flex !important;
     flex-direction: row !important;
-    align-items: center !important;
-    justify-content: space-between !important;
-    visibility: visible !important;
-    opacity: 1 !important;
+    align-items: center !important;       /* Aligns them vertically in the center */
+    justify-content: space-between !important; /* Pushes follow button to the far right */
+    flex-wrap: nowrap !important;         /* Prevents elements from wrapping vertically */
     width: 100% !important;
     padding: 10px 15px !important;
     box-sizing: border-box !important;
+    visibility: visible !important;
+    opacity: 1 !important;
   }
 
-  /* 2. Reset the child elements to behave nicely inside the flex row */
-  .author__avatar, 
-  .author__content, 
-  .author__urls-wrapper {
-    display: block !important;
-    float: none !important;
-    margin: 0 !important;
-  }
-
-  /* 3. Give the avatar a fixed, compact mobile size */
+  /* 3. Compact avatar size so it fits neatly inline */
   .author__avatar {
+    display: block !important;
     flex-shrink: 0 !important;
-    width: 40px !important;
-    height: 40px !important;
+    width: 45px !important;
+    height: 45px !important;
+    margin-right: 12px !important;
+    margin-bottom: 0 !important;
   }
   .author__avatar img {
     width: 100% !important;
     height: 100% !important;
+    border-radius: 50% !important;
     object-fit: cover !important;
   }
 
-  /* 4. Let the text fill the middle space gracefully */
+  /* 4. Center text inline and clean up default margins */
   .author__content {
-    flex-grow: 1 !important;
-    padding-left: 12px !important;
-    padding-right: 12px !important;
+    display: block !important;
+    flex-grow: 1 !important;              /* Allows text to fill the middle space */
+    padding: 0 !important;
+    margin-right: 10px !important;
     text-align: left !important;
   }
-
-  /* 5. Keep the Follow button on the right */
-  .author__urls-wrapper {
-    flex-shrink: 0 !important;
-    position: relative !important;
+  .author__name, 
+  .sidebar .author__name,
+  .author__bio {
+    margin: 0 !important;
+    line-height: 1.2 !important;
+  }
+  .author__bio {
+    font-size: 0.85em !important;
   }
 
-  /* 6. Ensure the dropdown list floats over the white content card */
+  /* 5. Keep Follow button structure relative for absolute positioning of dropdown */
+  .author__urls-wrapper {
+    display: block !important;
+    flex-shrink: 0 !important;
+    position: relative !important;        /* Anchors the dropdown to the button */
+    margin: 0 !important;
+  }
+
+  /* 6. Fix dropdown listing overlapping or sliding behind white container */
   .author__urls {
-    z-index: 9999 !important;
-    background: #ffffff !important;
     position: absolute !important;
-    right: 0 !important;
+    top: 100% !important;                 /* Places list directly below the button */
+    right: 0 !important;                  /* Aligns right edge of list to button */
+    left: auto !important;
+    z-index: 99999 !important;            /* High layer priority over all content cards */
+    background: #ffffff !important;       /* Solid background so text remains legible */
+    border: 1px solid #e2e2e2 !important;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+    min-width: 150px !important;
   }
 
   /* 7. Push the "Page content" card down cleanly */
-  .sidebar {
-    display: block !important;
-    margin-bottom: 1.5em !important;
-    height: auto !important;
-    clear: both !important;
-  }
-  
   .page__content,
   #main {
     clear: both !important;
-    margin-top: 1.5em !important;
+    margin-top: 20px !important;
   }
 }
