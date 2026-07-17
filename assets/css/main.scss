@@ -70,3 +70,18 @@ html, body, #main {
 // @import "jekyll-theme-modernist";
 // @import "modernist";
 // @import "rouge-base16-dark";
+
+/* Fix mobile follow button visibility in dark theme */
+@media (max-width: 64em) {
+  .sidebar .author__urls-wrapper button {
+//    background-color: #252a34 !important; /* Force a dark grey background */
+    background-color: #051115 !important; 
+    color: #ffffff !important;            /* Force white text */
+    border: 1px solid #4f5b66 !important; /* Add a subtle border so it stands out */
+  }
+
+  /* Ensure it looks active/hovered when tapped */
+  .sidebar .author__urls-wrapper button:hover {
+    background-color: #3f4654 !important;
+  }
+}
