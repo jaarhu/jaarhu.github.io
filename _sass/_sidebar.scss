@@ -259,17 +259,41 @@
   }
 }
 
-/* Ensure the sidebar doesn't clip content and has room below on mobile */
-@media (max-width: 64em) {
-  .sidebar {
-    height: auto !important;       /* Forces the sidebar to expand to its natural height */
-    max-height: none !important;   /* Prevents any maximum height limits */
-    overflow: visible !important;  /* Ensures nothing (like the follow button) gets clipped */
-    margin-bottom: 2.5em;          /* Keeps our nice gap before the main content */
+/* FIX THE MOBILE FOLLOW BUTTON HIDES */
+
+/* Fix mobile sidebar wrapping and clipping issues */
+@media screen and (max-width: 1023px) {
+  /* Prevent table cell layout from trapping/clipping elements */
+  .author__avatar,
+  .author__content,
+  .author__urls-wrapper {
+    display: inline-block !important;
+    vertical-align: top;
   }
 
-  /* Force the inner wrapper to also display everything */
-  .author__sidebar {
+  /* Give the content container space so it doesn't crowd the follow button */
+  .author__content {
+    padding-right: 10px;
+    max-width: 50%;
+  }
+
+  /* Ensure the dropdown wrapper behaves and can overflow */
+  .author__urls-wrapper {
     overflow: visible !important;
+    float: right; /* Keeps button on the right side */
+  }
+
+  /* Fix the hidden menu dropping behind the main content */
+  .author__urls {
+    z-index: 99 !important; /* Forces the dropdown to float on top of page content */
+    background: #ffffff !important; /* Ensures the background isn't transparent */
+  }
+
+  /* Push the main page content down so it doesn't overlap */
+  .sidebar {
+    margin-bottom: 3.5em !important;
+    overflow: visible !important;
+    display: block !important;
+    clear: both;
   }
 }
