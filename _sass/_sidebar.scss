@@ -264,42 +264,36 @@
 /* Complete mobile layout fix for horizontal alignment and overlap prevention */
 @media screen and (max-width: 1023px) {
   
-  /* 1. Master Container: Force everything into a single horizontal row */
+  /* 1. Ensure the parent sidebar is visible and clear */
   .sidebar {
-    display: flex !important;
-    flex-direction: row !important;
-    align-items: center !important;       /* Vertically centers avatar, text, and button */
-    justify-content: space-between !important; /* Pushes button to the far right */
-    flex-wrap: nowrap !important;         /* Prevents any vertical wrapping */
+    display: block !important;
     position: relative !important;
-    z-index: 100 !important;              /* Keeps dropdown menu above page content */
+    z-index: 100 !important;          /* Keeps dropdown menu on top of text */
     width: 100% !important;
-    max-width: 100% !important;
-    margin-top: 10px !important;
-    margin-bottom: 20px !important;
-    padding: 0 10px !important;
-    box-sizing: border-box !important;
+    margin-top: 15px !important;
+    margin-bottom: 15px !important;
     float: none !important;
     clear: both !important;
   }
 
-  /* 2. Inner Sidebar Wrapper: Align avatar and text horizontally */
-  .sidebar .author__sidebar {
+  /* 2. TARGET THE HIDDEN INNER CONTAINER: Force horizontal flex row */
+  .sidebar > div[itemscope] {
     display: flex !important;
     flex-direction: row !important;
-    align-items: center !important;
-    flex-grow: 1 !important;              /* Takes up available space up to the button */
-    margin: 0 !important;
-    padding: 0 !important;
-    border: none !important;
+    align-items: center !important;       /* Aligns items perfectly inline horizontally */
+    justify-content: space-between !important; /* Pushes follow button to the far right */
+    flex-wrap: nowrap !important;         /* Prevents any vertical dropping */
+    width: 100% !important;
+    padding: 0 5px !important;
+    box-sizing: border-box !important;
   }
 
   /* 3. Compact avatar size so it fits neatly inline */
   .author__avatar {
     display: block !important;
-    flex-shrink: 0 !important;            /* Prevents the avatar from getting squeezed */
-    width: 45px !important;
-    height: 45px !important;
+    flex-shrink: 0 !important;            /* Stops avatar from getting squished */
+    width: 50px !important;
+    height: 50px !important;
     margin-right: 12px !important;
     margin-bottom: 0 !important;
   }
@@ -313,13 +307,14 @@
   /* 4. Allow text area to expand in the middle */
   .author__content {
     display: block !important;
-    flex-grow: 1 !important;
+    flex-grow: 1 !important;              /* Takes up all middle space */
     padding: 0 !important;
-    margin-right: 15px !important;
+    margin-right: 10px !important;
+    margin-bottom: 0 !important;
     text-align: left !important;
   }
   
-  /* Reset margins for inner text elements */
+  /* Compact typographic layout for the inline style */
   .author__name, 
   .sidebar .author__name,
   .author__bio {
@@ -328,44 +323,45 @@
     line-height: 1.2 !important;
   }
   .author__name {
-    font-size: 1.05em !important;
+    font-size: 1.1em !important;
   }
   .author__bio {
-    font-size: 0.8em !important;
+    font-size: 0.85em !important;
   }
 
-  /* 5. Keep Follow button wrapper relative and aligned to the right */
+  /* 5. Keep Follow button wrapper relative and clean */
   .author__urls-wrapper {
     display: block !important;
-    flex-shrink: 0 !important;            /* Prevents the button from shrinking on small screens */
-    position: relative !important;        /* Anchors the dropdown menu */
+    flex-shrink: 0 !important;            /* Button keeps its explicit width */
+    position: relative !important;        /* Anchors dropdown menu */
     margin: 0 !important;
+    padding: 0 !important;
   }
   
   .author__urls-wrapper .btn {
-    margin: 0 !important;                 /* Removes theme default margins */
-    padding: 6px 12px !important;         /* Makes the button slightly more compact */
+    margin: 0 !important;
+    padding: 6px 14px !important;         /* Makes button proportional for mobile */
   }
 
-  /* 6. Fix dropdown menu positioning and visibility */
+  /* 6. Keep dropdown menu positioning operational and elevated */
   .author__urls {
     position: absolute !important;
-    top: 100% !important;                  /* Positions right below the button */
-    right: 0 !important;                   /* Aligns dropdown to the right edge */
+    top: 100% !important;                  /* Aligns below button */
+    right: 0 !important;                   /* Right-aligned dropdown border box */
     left: auto !important;
-    z-index: 200 !important;               /* Higher than the sidebar context */
-    background: #ffffff !important;        /* Opaque background */
+    z-index: 200 !important;
+    background: #ffffff !important;
     border: 1px solid #e2e2e2 !important;
     box-sizing: border-box !important;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
     min-width: 160px !important;
   }
 
-  /* 7. Lower the page content layer so it never sits on top of the menu */
+  /* 7. Keep content card layered safely underneath the active menu */
   .page__content,
   #main {
     position: relative !important;
-    z-index: 1 !important;                 /* Lower than the sidebar z-index */
+    z-index: 1 !important;
     clear: both !important;
     margin-top: 15px !important;
   }
