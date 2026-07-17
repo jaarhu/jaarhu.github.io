@@ -261,38 +261,43 @@
 
 /* FIX THE MOBILE FOLLOW BUTTON HIDES */
 
-/* Fix mobile sidebar wrapping and clipping issues */
+/* Force the author profile and follow button to show on mobile */
 @media screen and (max-width: 1023px) {
-  /* Prevent table cell layout from trapping/clipping elements */
-  .author__avatar,
-  .author__content,
+  /* Make the main profile container visible */
+  .sidebar .author__profile {
+    display: block !important;
+  }
+
+  /* Make sure the avatar picture and text wrappers are displayed inline/block */
+  .author__avatar, 
+  .author__content, 
   .author__urls-wrapper {
     display: inline-block !important;
-    vertical-align: top;
+    vertical-align: middle;
   }
 
-  /* Give the content container space so it doesn't crowd the follow button */
+  /* Prevent the content container from taking up too much room */
   .author__content {
-    padding-right: 10px;
     max-width: 50%;
+    padding-left: 10px !important;
   }
 
-  /* Ensure the dropdown wrapper behaves and can overflow */
+  /* Ensure the Follow button wrapper is visible and positioned nicely */
   .author__urls-wrapper {
-    overflow: visible !important;
-    float: right; /* Keeps button on the right side */
+    display: inline-block !important;
+    float: right;
+    margin-top: 10px;
   }
 
-  /* Fix the hidden menu dropping behind the main content */
+  /* Ensure the follow menu itself drops down over the page content */
   .author__urls {
-    z-index: 99 !important; /* Forces the dropdown to float on top of page content */
-    background: #ffffff !important; /* Ensures the background isn't transparent */
+    z-index: 99 !important;
+    background: #ffffff !important;
   }
 
-  /* Push the main page content down so it doesn't overlap */
+  /* Push the "Page content" container down so there is a clean gap */
   .sidebar {
-    margin-bottom: 3.5em !important;
-    overflow: visible !important;
+    margin-bottom: 2.5em !important;
     display: block !important;
     clear: both;
   }
