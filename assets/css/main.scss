@@ -51,6 +51,7 @@
   --global-bg-color: #ADD8E6 !important; 
 }
 
+/*
 // 3. Set your dark mode background
 @media (prefers-color-scheme: dark) {
   :root {
@@ -59,6 +60,7 @@
     --global-bg-color: #051115 !important;  // Cyberpunk Dark color
   }
 }
+*/
 
 // 4. A hard-override just in case the layout wrapper is being stubborn
 html, body, #main {
