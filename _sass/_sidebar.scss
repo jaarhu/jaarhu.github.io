@@ -261,44 +261,52 @@
 
 /* FIX THE MOBILE FOLLOW BUTTON HIDES */
 
-/* Force the author profile and follow button to show on mobile */
+/* Complete mobile sidebar exposure and layout separation */
 @media screen and (max-width: 1023px) {
-  /* Make the main profile container visible */
+  /* 1. Force the hidden profile container to display */
   .sidebar .author__profile {
     display: block !important;
   }
 
-  /* Make sure the avatar picture and text wrappers are displayed inline/block */
+  /* 2. Arrange elements side-by-side horizontally */
   .author__avatar, 
   .author__content, 
   .author__urls-wrapper {
     display: inline-block !important;
-    vertical-align: middle;
+    vertical-align: middle !important;
   }
 
-  /* Prevent the content container from taking up too much room */
+  /* 3. Keep text from overflowing */
   .author__content {
-    max-width: 50%;
-    padding-left: 10px !important;
+    max-width: 50% !important;
+    padding-left: 12px !important;
   }
 
-  /* Ensure the Follow button wrapper is visible and positioned nicely */
+  /* 4. Position follow button on the right */
   .author__urls-wrapper {
-    display: inline-block !important;
-    float: right;
-    margin-top: 10px;
+    float: right !important;
+    margin-top: 8px !important;
   }
 
-  /* Ensure the follow menu itself drops down over the page content */
+  /* 5. Force the dropdown list to float ON TOP of the white content card */
   .author__urls {
-    z-index: 99 !important;
+    z-index: 9999 !important;
     background: #ffffff !important;
+    position: absolute !important;
   }
 
-  /* Push the "Page content" container down so there is a clean gap */
+  /* 6. PUSH THE PAGE CONTENT CARD DOWN (This stops the overlap) */
   .sidebar {
-    margin-bottom: 2.5em !important;
     display: block !important;
-    clear: both;
+    margin-bottom: 3.5em !important;
+    clear: both !important;
+    height: auto !important;
+  }
+  
+  /* Select the actual page container card and ensure it respects the sidebar's margin */
+  .page__content,
+  #main {
+    clear: both !important;
+    margin-top: 1.5em !important;
   }
 }
