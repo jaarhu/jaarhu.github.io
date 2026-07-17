@@ -259,9 +259,17 @@
   }
 }
 
-/* Add breathing room below the sidebar on mobile devices */
+/* Ensure the sidebar doesn't clip content and has room below on mobile */
 @media (max-width: 64em) {
   .sidebar {
-    margin-bottom: 10em; /* Adjust this value to increase/decrease the gap */
+    height: auto !important;       /* Forces the sidebar to expand to its natural height */
+    max-height: none !important;   /* Prevents any maximum height limits */
+    overflow: visible !important;  /* Ensures nothing (like the follow button) gets clipped */
+    margin-bottom: 2.5em;          /* Keeps our nice gap before the main content */
+  }
+
+  /* Force the inner wrapper to also display everything */
+  .author__sidebar {
+    overflow: visible !important;
   }
 }
