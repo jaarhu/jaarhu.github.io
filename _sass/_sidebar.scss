@@ -264,70 +264,76 @@
 /* Complete mobile layout fix for horizontal alignment and overlap prevention */
 @media screen and (max-width: 1023px) {
   
-  /* 1. Force the main sidebar and ANY immediate wrapping divs to be horizontal rows */
-  .sidebar,
-  .sidebar > div,
-  .sidebar > div[itemscope] {
-    display: flex !important;
-    flex-direction: row !important;
-    align-items: center !important;       /* Vertically centers all elements inline */
-    justify-content: space-between !important; /* Pushes the follow button to the far right */
-    flex-wrap: nowrap !important;         /* Hard restriction against vertical breaking */
+  /* 1. Force parent sidebar to behave as a layout container and stay visible */
+  .sidebar {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
     position: relative !important;
-    z-index: 100 !important;              /* Keeps dropdown above page content */
+    z-index: 100 !important;
     width: 100% !important;
     max-width: 100% !important;
-    margin-top: 10px !important;
+    margin-top: 15px !important;
     margin-bottom: 15px !important;
-    padding: 0 5px !important;
-    box-sizing: border-box !important;
     float: none !important;
     clear: both !important;
   }
 
-  /* 2. Profile wrapper layout (holds avatar and text side-by-side) */
+  /* 2. Force the inner structural wrappers to stay visible and arrange as a horizontal row */
+  .sidebar > div,
+  .sidebar > div[itemscope],
   .sidebar .author__sidebar {
-    display: flex !important;
+    display: flex !important;           /* Overrides theme display: none on portrait */
+    visibility: visible !important;
+    opacity: 1 !important;
     flex-direction: row !important;
-    align-items: center !important;
-    flex-grow: 1 !important;              /* Grows to take up available space */
+    align-items: center !important;     /* Centers avatar, text, and button vertically */
+    justify-content: space-between !important; /* Pushes follow button to the far right */
+    flex-wrap: nowrap !important;       /* Strongly prevents vertical stacked lines */
+    width: 100% !important;
     margin: 0 !important;
-    padding: 0 !important;
+    padding: 0 5px !important;
     border: none !important;
+    box-sizing: border-box !important;
     background: transparent !important;
   }
 
-  /* 3. Compact avatar size so it fits neatly inline */
+  /* 3. Compact avatar sizing to prevent squishing on portrait */
   .author__avatar {
     display: block !important;
-    flex-shrink: 0 !important;            /* Prevents squishing on narrow portrait screens */
+    visibility: visible !important;
+    flex-shrink: 0 !important;          /* Keeps it perfectly round and sharp */
     width: 45px !important;
     height: 45px !important;
     margin-right: 12px !important;
     margin-bottom: 0 !important;
   }
   .author__avatar img {
+    display: block !important;
     width: 100% !important;
     height: 100% !important;
     border-radius: 50% !important;
     object-fit: cover !important;
   }
 
-  /* 4. Allow text area to expand in the middle */
+  /* 4. Keep the text wrapper visible, left-aligned, and flexible */
   .author__content {
-    display: block !important;
-    flex-grow: 1 !important;
+    display: block !important;          /* Counteracts portrait auto-hide */
+    visibility: visible !important;
+    opacity: 1 !important;
+    flex-grow: 1 !important;            /* Dynamically fills middle room */
     padding: 0 !important;
     margin-right: 10px !important;
     margin-bottom: 0 !important;
     text-align: left !important;
   }
   
-  /* Reset margins for inner text elements */
+  /* Compact typographic adjustments for the rows */
   .author__name, 
   .sidebar .author__name,
   .author__bio {
     display: block !important;
+    visibility: visible !important;
     margin: 0 !important;
     padding: 0 !important;
     line-height: 1.2 !important;
@@ -339,11 +345,13 @@
     font-size: 0.8em !important;
   }
 
-  /* 5. Force Follow button wrapper to stay visible and aligned to the right */
+  /* 5. Ensure Follow button container stays visible on small devices */
   .author__urls-wrapper {
-    display: block !important;
-    flex-shrink: 0 !important;            /* Protects button width on narrow screens */
-    position: relative !important;        /* Anchors dropdown menu */
+    display: block !important;          /* Counteracts portrait auto-hide */
+    visibility: visible !important;
+    opacity: 1 !important;
+    flex-shrink: 0 !important;          /* Keeps button from collapsing */
+    position: relative !important;      /* Anchors dropdown relative position */
     margin: 0 !important;
     padding: 0 !important;
   }
@@ -351,14 +359,14 @@
   .author__urls-wrapper .btn {
     display: inline-block !important;
     margin: 0 !important;
-    padding: 6px 12px !important;         /* Clean, compact size for phone screens */
+    padding: 6px 12px !important;       /* Perfect touch target for small screens */
   }
 
-  /* 6. Fix dropdown menu positioning and visibility */
+  /* 6. Dropdown overlay adjustments */
   .author__urls {
     position: absolute !important;
-    top: 100% !important;                  /* Positions directly below button */
-    right: 0 !important;                   /* Align right edge to button */
+    top: 100% !important;
+    right: 0 !important;
     left: auto !important;
     z-index: 200 !important;
     background: #ffffff !important;
@@ -368,11 +376,11 @@
     min-width: 160px !important;
   }
 
-  /* 7. Push main page content card safely down */
+  /* 7. Layer main content safely underneath */
   .page__content,
   #main {
     position: relative !important;
-    z-index: 1 !important;                 /* Sits underneath the active menu layer */
+    z-index: 1 !important;
     clear: both !important;
     margin-top: 20px !important;
   }
