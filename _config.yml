@@ -23,7 +23,8 @@ repository               : "jaarhu/jaarhu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  # avatar           : "profile.png"
+  avatar           : "logo-macs.svg"
   name             : "Academic Profile"
   pronouns         : # example: "she/her"  
   bio              : "Full Professor"
