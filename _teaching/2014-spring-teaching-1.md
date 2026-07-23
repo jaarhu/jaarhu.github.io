@@ -10,7 +10,6 @@ location: ""
 
 La información es complementaria a la del curso correspondiente en **[Enseñanza Virtual de la Universidad de Sevilla](https://ev.us.es)** 
 
-
 <!--
 date: 2024-08-28
 -->
