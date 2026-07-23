@@ -24,7 +24,7 @@ repository               : "jaarhu/jaarhu.github.io"
 author:
   # Biographic information
   # avatar           : "profile.png"
-  avatar           : "logo-macs.svg"
+  avatar           : "macs-logo.svg"
   name             : "J.Á. Acosta" # "Academic Profile"
   pronouns         : # example: "she/her"  
   bio              : "Full Professor"
